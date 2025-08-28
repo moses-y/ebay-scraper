@@ -9,7 +9,7 @@
 
 ### How it works
 
-You can get eBay results by providing your own URLs to our service. We can return the HTML of any eBay page you like.
+You can get eBay results by providing your own URLs to our service. We can return the HTML, parsed JSON, or Markdown output of any eBay page you like.
 
 #### Python code example
 
